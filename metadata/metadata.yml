@@ -1,0 +1,22 @@
+metadata_version: 1
+name: Two-stage hybrid decision feedback equalization for DS-CDMA systems
+description: Simulation code for "Two-Stage Hybrid Decision Feedback Equalization
+  for DS-CDMA Systems," IEEE Trans. Wireless Commun., vol.7, no.5, pp. 1490-1494,
+  May 2008 by Le-Nam Tran, Een-Kee Hong, and Huaping Liu,
+tags:
+- channel-equalization
+- cdma
+- decision feedback equalizer
+authors:
+- name: Le-Nam Tran
+  affiliations:
+  - name: Kyung Hee University
+- name: Een-Kee Hong
+  affiliations:
+  - name: Kyung Hee University
+- name: Huaping Liu
+  affiliations:
+  - name: Oregon State University
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
